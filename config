@@ -1,0 +1,5 @@
+Host my-host
+    HostName my-host.com
+    Port 22
+    User user1
+    IdentityFile ~/.ssh/my-key
