@@ -1,3 +1,4 @@
+# https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
 Host my-host
     HostName my-host.com
     Port 22
