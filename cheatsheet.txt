@@ -2,4 +2,6 @@ git init
 git add .
 git commit -m "first commit"
 git remote add origin <<url>>
+git branch --set-upstream-to=origin/master master
+git pull --allow-unrelated-histories
 git push -u origin master
